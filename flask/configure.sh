@@ -14,8 +14,4 @@ EOF
 sudo ./aws/install --update
 aws --version
 aws configure <<EOF
-AKIAZ3ZSATRHS3JRM5NZ
-EqeJ0GftzSyp0nKnpDA67FI9S1D6BbOResZN1bWe
-eu-central-1
-json
 EOF
